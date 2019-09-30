@@ -1,0 +1,170 @@
+solid Cubo8
+facet normal 0.7071067811865476 5.668398236917365e-33 0.7071067811865476
+  outer loop
+    vertex 20.0 20.000000000000004 20.0
+    vertex 0.0 0.0 40.0
+    vertex 20.0 0.0 20.0
+  endloop
+endfacet
+facet normal 0.7071067811865476 5.668398236917365e-33 0.7071067811865476
+  outer loop
+    vertex 0.0 0.0 40.0
+    vertex 20.0 20.000000000000004 20.0
+    vertex 0.0 20.0 40.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 20.0 20.000000000000004 40.0
+    vertex 0.0 40.0 40.0
+    vertex 0.0 20.0 40.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 40.0 40.0
+    vertex 20.0 20.000000000000004 40.0
+    vertex 20.0 40.0 40.0
+  endloop
+endfacet
+facet normal 1.4099832412739486e-16 -1.0 0.0
+  outer loop
+    vertex 0.0 20.0 40.0
+    vertex 20.0 20.000000000000004 20.0
+    vertex 20.0 20.000000000000004 40.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 20.0 40.0 20.0
+    vertex 20.0 20.000000000000004 40.0
+    vertex 20.0 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 20.0 20.000000000000004 40.0
+    vertex 20.0 40.0 20.0
+    vertex 20.0 40.0 40.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 20.0 40.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 40.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 20.0 40.0
+    vertex 0.0 40.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 40.0 0.0
+    vertex 0.0 20.0 40.0
+    vertex 0.0 40.0 40.0
+  endloop
+endfacet
+facet normal 0.5773502691896258 -0.5773502691896258 0.5773502691896258
+  outer loop
+    vertex 40.0 20.0 20.0
+    vertex 20.0 0.0 20.0
+    vertex 40.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 0.0 40.0 40.0
+    vertex 40.0 40.0 0.0
+    vertex 0.0 40.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 40.0 40.0 0.0
+    vertex 0.0 40.0 40.0
+    vertex 20.0 40.0 20.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 20.0 40.0 20.0
+    vertex 0.0 40.0 40.0
+    vertex 20.0 40.0 40.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 40.0 40.0 20.0
+    vertex 40.0 40.0 0.0
+    vertex 20.0 40.0 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 40.0 40.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 40.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 40.0 40.0 0.0
+    vertex 40.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 40.0 20.0 20.0
+    vertex 20.0 20.000000000000004 20.0
+    vertex 20.0 0.0 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 20.0 20.000000000000004 20.0
+    vertex 40.0 20.0 20.0
+    vertex 20.0 40.0 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 20.0 40.0 20.0
+    vertex 40.0 20.0 20.0
+    vertex 40.0 40.0 20.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 40.0 40.0 0.0
+    vertex 40.0 20.0 20.0
+    vertex 40.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 40.0 20.0 20.0
+    vertex 40.0 40.0 0.0
+    vertex 40.0 40.0 20.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 20.0 0.0 20.0
+    vertex 0.0 0.0 0.0
+    vertex 40.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 20.0 0.0 20.0
+    vertex 0.0 0.0 40.0
+  endloop
+endfacet
+endsolid Cubo8

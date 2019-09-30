@@ -1,0 +1,212 @@
+solid cubo11
+facet normal 1.409983241273949e-16 -1.0 2.4048976990740834e-32
+  outer loop
+    vertex 0.0 20.0 40.0
+    vertex 0.0 20.0 20.0
+    vertex 20.0 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 40.0 40.0
+    vertex 0.0 20.0 20.0
+    vertex 0.0 20.0 40.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 20.0 20.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 20.0 20.0
+    vertex 0.0 40.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 40.0 0.0
+    vertex 0.0 20.0 20.0
+    vertex 0.0 40.0 40.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 20.0 0.0 20.0
+    vertex 0.0 20.0 20.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 20.0 20.0
+    vertex 20.0 0.0 20.0
+    vertex 20.0 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal 0.5773502691896258 -0.5773502691896258 0.5773502691896256
+  outer loop
+    vertex 20.0 40.0 40.0
+    vertex 0.0 20.0 40.0
+    vertex 20.0 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 20.0 40.0 40.0
+    vertex 0.0 40.0 40.0
+    vertex 0.0 20.0 40.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 40.0 20.0 0.0
+    vertex 40.0 20.0 20.0
+    vertex 40.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 40.0 20.0 20.0
+    vertex 40.0 20.0 0.0
+    vertex 40.0 40.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 40.0 20.0 20.0
+    vertex 40.0 40.0 0.0
+    vertex 40.0 40.0 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 40.0 20.0 20.0
+    vertex 20.0 40.0 20.0
+    vertex 20.0 20.000000000000004 20.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 20.0 40.0 20.0
+    vertex 40.0 20.0 20.0
+    vertex 40.0 40.0 20.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 20.0 0.0 20.0
+    vertex 0.0 0.0 0.0
+    vertex 20.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 20.0 0.0 20.0
+    vertex 0.0 0.0 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 40.0 20.0 0.0
+    vertex 20.0 0.0 0.0
+    vertex 20.0 20.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 20.0 0.0 0.0
+    vertex 40.0 20.0 0.0
+    vertex 40.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 20.0 40.0 40.0
+    vertex 20.0 20.000000000000004 20.0
+    vertex 20.0 40.0 20.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 0.0 40.0 40.0
+    vertex 40.0 40.0 0.0
+    vertex 0.0 40.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 40.0 40.0 0.0
+    vertex 0.0 40.0 40.0
+    vertex 20.0 40.0 20.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 20.0 40.0 20.0
+    vertex 0.0 40.0 40.0
+    vertex 20.0 40.0 40.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 40.0 40.0 20.0
+    vertex 40.0 40.0 0.0
+    vertex 20.0 40.0 20.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 40.0 40.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 40.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 40.0 40.0 0.0
+    vertex 20.0 20.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 20.0 20.0 0.0
+    vertex 40.0 40.0 0.0
+    vertex 40.0 20.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 20.0 0.0 0.0
+    vertex 0.0 0.0 0.0
+    vertex 20.0 20.0 0.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 20.0 20.000000000000004 20.0
+    vertex 20.0 0.0 20.0
+    vertex 20.0 0.0 0.0
+  endloop
+endfacet
+facet normal -3.165502658263826e-17 -0.7071067811865475 0.7071067811865476
+  outer loop
+    vertex 40.0 0.0 0.0
+    vertex 20.0 20.000000000000004 20.0
+    vertex 20.0 0.0 0.0
+  endloop
+endfacet
+facet normal -3.165502658263826e-17 -0.7071067811865475 0.7071067811865476
+  outer loop
+    vertex 20.0 20.000000000000004 20.0
+    vertex 40.0 0.0 0.0
+    vertex 40.0 20.0 20.0
+  endloop
+endfacet
+endsolid cubo11
